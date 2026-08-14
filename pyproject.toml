@@ -1,0 +1,13 @@
+[project]
+name = "pii-redaction-tool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faker>=40.36.0",
+    "presidio>=2.2.364",
+    "presidio-analyzer>=2.2.364",
+    "python-docx>=1.2.0",
+    "streamlit>=1.61.1",
+]

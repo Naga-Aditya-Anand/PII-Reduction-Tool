@@ -1,0 +1,41 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Tool caches and coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+
+# Local env files
+.env
+.env.*
+
+# Local scratch file
+hi.py
+
+# Generated project outputs
+output/*
+!output/.gitkeep
+evaluation/eval_results.json
+evaluation/predictions.json

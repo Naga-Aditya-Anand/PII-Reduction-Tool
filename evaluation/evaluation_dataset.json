@@ -1,0 +1,1983 @@
+[
+  {
+    "element_id": "body_tbl2_r14_c7_p7",
+    "text": "Contact Person: Shanti Gopalkrishnan",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Shanti Gopalkrishnan",
+        "start": 16,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl0_r9_c0_p0",
+    "text": "Pushpa Kushal Hegde",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Pushpa Kushal Hegde",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl35_r5_c0_p0",
+    "text": "Rakhi Girija Shetty",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Rakhi Girija Shetty",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl35_r1_c0_p0",
+    "text": "Kushal Subbayya Hegde*",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Kushal Subbayya Hegde",
+        "start": 0,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl33_r2_c0_p0",
+    "text": "Rajesh Kushal Hegde*",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Rajesh Kushal Hegde",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl5_r27_c1_p0",
+    "text": "Rajesh Kushal Hegde, his spouse, his children, lineal descendants and Everest Family Trust",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Rajesh Kushal Hegde",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Everest Family Trust",
+        "start": 70,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c6_p7",
+    "text": "Contact Person: Shanti Gopalkrishnan",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Shanti Gopalkrishnan",
+        "start": 16,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "element_id": "body_p828",
+    "text": "Contact Person: Eric Bacha/ Sachin Gawade/ Pravin Teli/ Siddharth Jadhav/ Tushar Gavankar",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Eric Bacha",
+        "start": 16,
+        "end": 26
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Sachin Gawade",
+        "start": 28,
+        "end": 41
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Pravin Teli",
+        "start": 43,
+        "end": 54
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Siddharth Jadhav",
+        "start": 56,
+        "end": 72
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Tushar Gavankar",
+        "start": 74,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c4_p6",
+    "text": "Contact Person: Kishan Rastogi/Abhijit Diwan",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Kishan Rastogi",
+        "start": 16,
+        "end": 30
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Abhijit Diwan",
+        "start": 31,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl70_r1_c0_p0",
+    "text": "Kushal Subbayya Hegde",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Kushal Subbayya Hegde",
+        "start": 0,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl0_r10_c0_p0",
+    "text": "Rajesh Kushal Hegde",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Rajesh Kushal Hegde",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "element_id": "body_p930",
+    "text": "Contact Person: Ashish Mathew Pulloor",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Ashish Mathew Pulloor",
+        "start": 16,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "element_id": "body_p843",
+    "text": "Contact Person: Eric Bacha/ Sachin Gawade/ Pravin Teli/ Siddharth Jadhav/ Tushar Gavankar",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Eric Bacha",
+        "start": 16,
+        "end": 26
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Sachin Gawade",
+        "start": 28,
+        "end": 41
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Pravin Teli",
+        "start": 43,
+        "end": 54
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Siddharth Jadhav",
+        "start": 56,
+        "end": 72
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Tushar Gavankar",
+        "start": 74,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl33_r1_c0_p0",
+    "text": "Pushpa Kushal Hegde*",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Pushpa Kushal Hegde",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl33_r3_c0_p0",
+    "text": "Rohit Kushal Hegde*",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Rohit Kushal Hegde",
+        "start": 0,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "element_id": "body_p782",
+    "text": "Contact Person: Prakash Boricha",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Prakash Boricha",
+        "start": 16,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "element_id": "body_p819",
+    "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020 Telephone: 022-68052182 Email: Ipocmg@icicibank.com Website: www.icicibank.com Contact Person: Varun Badai",
+    "sample_reason": "PERSON,PHONE_NUMBER,LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "H.T.Parekh Marg Backbay Reclamation Churchgate",
+        "start": 16,
+        "end": 62
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Mumbai",
+        "start": 64,
+        "end": 70
+      },
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "022-68052182",
+        "start": 91,
+        "end": 103
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "Ipocmg@icicibank.com",
+        "start": 111,
+        "end": 131
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Varun Badai",
+        "start": 175,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "element_id": "body_p923",
+    "text": "Telephone: +91 20 2561 8211 Contact Person: Tushar Wakhele Website: www.sbi.co.in",
+    "sample_reason": "PERSON,PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 20 2561 8211",
+        "start": 11,
+        "end": 27
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Tushar Wakhele Website",
+        "start": 44,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c5_p6",
+    "text": "Contact Person: Kishan Rastogi/Abhijit Diwan",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Kishan Rastogi",
+        "start": 16,
+        "end": 30
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Abhijit Diwan",
+        "start": 31,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl37_r4_c1_p0",
+    "text": "Pushpa Kushal Hegde",
+    "sample_reason": "PERSON",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Pushpa Kushal Hegde",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "element_id": "body_p827",
+    "text": "Email: siddharth.jadhav@hdfcbank.com, sachin.gawade@hdfcbank.com eric.bacha@hdfcbank.com, tushar.gavankar@hdfcbank.com, and pravin.teli2@hdfcbank.com Website: www.hdfcbank.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "siddharth.jadhav@hdfcbank.com",
+        "start": 7,
+        "end": 36
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "sachin.gawade@hdfcbank.com",
+        "start": 38,
+        "end": 64
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "eric.bacha@hdfcbank.com",
+        "start": 65,
+        "end": 88
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "tushar.gavankar@hdfcbank.com",
+        "start": 90,
+        "end": 118
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "pravin.teli2@hdfcbank.com",
+        "start": 124,
+        "end": 149
+      }
+    ]
+  },
+  {
+    "element_id": "body_p873",
+    "text": "E-mail: parag.pansare@kirtanepandit.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "parag.pansare@kirtanepandit.com",
+        "start": 8,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "element_id": "body_p786",
+    "text": "Telephone: +91 22 6807 7100 Email: ksh@icicisecurities.com Website: www.icicisecurities.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 22 6807 7100",
+        "start": 11,
+        "end": 27
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "ksh@icicisecurities.com",
+        "start": 35,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c6_p6",
+    "text": "Investor grievance e-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "kshinternational.ipo@in.mpms.mufg.com",
+        "start": 27,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c0_p5",
+    "text": "Investor grievance email: customerservice.mb@nuvama.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "customerservice.mb@nuvama.com",
+        "start": 26,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c7_p6",
+    "text": "Investor grievance e-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "kshinternational.ipo@in.mpms.mufg.com",
+        "start": 27,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "element_id": "body_p802",
+    "text": "E-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "kshinternational.ipo@in.mpms.mufg.com",
+        "start": 8,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c2_p3",
+    "text": "E-mail: ksh@icicisecurities.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "ksh@icicisecurities.com",
+        "start": 8,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl0_r1_c4_p1",
+    "text": "Email: cs.connect@kshinternational.com Telephone: + 91 20 45053237",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "cs.connect@kshinternational.com",
+        "start": 7,
+        "end": 38
+      },
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+ 91 20 45053237",
+        "start": 50,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl1_r11_c7_p1",
+    "text": "E-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "kshinternational.ipo@in.mpms.mufg.com",
+        "start": 8,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "element_id": "body_p932",
+    "text": "Email: ashishmp@federalbank.co.in",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "ashishmp@federalbank.co.in",
+        "start": 7,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c7_p4",
+    "text": "E-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "kshinternational.ipo@in.mpms.mufg.com",
+        "start": 8,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c4_p3",
+    "text": "E-mail: ksh@icicisecurities.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "ksh@icicisecurities.com",
+        "start": 8,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "element_id": "body_p890",
+    "text": "Email: hitesh.ramani@citi.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "hitesh.ramani@citi.com",
+        "start": 7,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl1_r11_c6_p1",
+    "text": "E-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "kshinternational.ipo@in.mpms.mufg.com",
+        "start": 8,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c0_p3",
+    "text": "E-mail: ksh.ipo@nuvama.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "ksh.ipo@nuvama.com",
+        "start": 8,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "element_id": "body_p835",
+    "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020 Telephone: 022-68052182 Email: Ipocmg@icicibank.com Website: www.icicibank.com Contact Person: Varun Badai",
+    "sample_reason": "EMAIL_ADDRESS,PHONE_NUMBER,LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "H.T.Parekh Marg Backbay Reclamation Churchgate",
+        "start": 16,
+        "end": 62
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Mumbai",
+        "start": 64,
+        "end": 70
+      },
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "022-68052182",
+        "start": 91,
+        "end": 103
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "Ipocmg@icicibank.com",
+        "start": 111,
+        "end": 131
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Varun Badai",
+        "start": 175,
+        "end": 186
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl1_r11_c3_p1",
+    "text": "E-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "kshinternational.ipo@in.mpms.mufg.com",
+        "start": 8,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl1_r8_c8_p1",
+    "text": "Email: ksh@icicisecurities.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "ksh@icicisecurities.com",
+        "start": 7,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c5_p5",
+    "text": "Investor grievance email: customercare@icicisecurities.com",
+    "sample_reason": "EMAIL_ADDRESS",
+    "gold_entities": [
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "customercare@icicisecurities.com",
+        "start": 26,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl1_r11_c3_p0",
+    "text": "Telephone: +91 81081 14949",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 81081 14949",
+        "start": 11,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "element_id": "body_p756",
+    "text": "Telephone: +91 22 40094400 Email: ksh.ipo@nuvama.com Website: www.nuvama.com",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 22 40094400",
+        "start": 11,
+        "end": 26
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "ksh.ipo@nuvama.com",
+        "start": 34,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "element_id": "body_p929",
+    "text": "Telephone: + 91 91586 40360",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+ 91 91586 40360",
+        "start": 11,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "element_id": "body_p910",
+    "text": "Telephone: + 91 8879770456 Contact Person: Cherag Gyara Website: www.icicibank.com Email: cherag.gyara@icicibank.com",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+ 91 8879770456",
+        "start": 11,
+        "end": 26
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Cherag Gyara",
+        "start": 43,
+        "end": 55
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "cherag.gyara@icicibank.com",
+        "start": 90,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c3_p2",
+    "text": "Tel: +91 22 6807 7100",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 22 6807 7100",
+        "start": 5,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl1_r7_c7_p1",
+    "text": "Telephone: +91 22 4009 4400",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 22 4009 4400",
+        "start": 11,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl73_r1_c0_p5",
+    "text": "Telephone: + 91 20 6729 5100",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+ 91 20 6729 5100",
+        "start": 11,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl1_r11_c4_p0",
+    "text": "Telephone: +91 81081 14949",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 81081 14949",
+        "start": 11,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "element_id": "body_p779",
+    "text": "Telephone: + 91 22 4009 4400",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+ 91 22 4009 4400",
+        "start": 11,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl1_r8_c8_p2",
+    "text": "Telephone: +91 22 6807 7100",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 22 6807 7100",
+        "start": 11,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c5_p2",
+    "text": "Tel: +91 22 6807 7100",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 22 6807 7100",
+        "start": 5,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "element_id": "body_p797",
+    "text": "Telephone: +91 22 4079 1000",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 22 4079 1000",
+        "start": 11,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c7_p3",
+    "text": "Tel: +91 81081 14949",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 81081 14949",
+        "start": 5,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c6_p3",
+    "text": "Tel: +91 81081 14949",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 81081 14949",
+        "start": 5,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "element_id": "body_p801",
+    "text": "1st Floor, L B S Marg, Vikhroli (West) Mumbai 400083, (Maharashtra), India Telephone: +91 81081 14949",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 81081 14949",
+        "start": 86,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl1_r11_c8_p0",
+    "text": "Telephone: +91 81081 14949",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 81081 14949",
+        "start": 11,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "element_id": "body_p937",
+    "text": "Telephone: +91 20 7157 6403 Contact Person: Anand Soni Website: www.bajajfinance.com Email: anand.soni@bajajfinserv.in",
+    "sample_reason": "PHONE_NUMBER",
+    "gold_entities": [
+      {
+        "entity_type": "PHONE_NUMBER",
+        "text": "+91 20 7157 6403",
+        "start": 11,
+        "end": 27
+      },
+      {
+        "entity_type": "PERSON",
+        "text": "Anand Soni",
+        "start": 44,
+        "end": 54
+      },
+      {
+        "entity_type": "EMAIL_ADDRESS",
+        "text": "anand.soni@bajajfinserv.in",
+        "start": 92,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c6_p0",
+    "text": "MUFG Intime India Private Limited",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "MUFG Intime India Private Limited",
+        "start": 0,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c3_p0",
+    "text": "ICICI Securities Limited",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "ICICI Securities Limited",
+        "start": 0,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "element_id": "body_p919",
+    "text": "State Bank of India, Industrial Finance Branch",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "State Bank of India",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl23_r9_c1_p0",
+    "text": "Everest Family Trust",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Everest Family Trust",
+        "start": 0,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl25_r12_c0_p0",
+    "text": "Kanchenjunga Family Trust",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Kanchenjunga Family Trust",
+        "start": 0,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c7_p0",
+    "text": "MUFG Intime India Private Limited",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "MUFG Intime India Private Limited",
+        "start": 0,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl4_r3_c1_p0",
+    "text": "The current statutory auditors of our Company, being Kirtane & Pandit LLP, Chartered Accountants",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Kirtane & Pandit LLP",
+        "start": 53,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl35_r8_c0_p0",
+    "text": "Makalu Family Trust",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Makalu Family Trust",
+        "start": 0,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl25_r10_c0_p0",
+    "text": "Broad Family Trust",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Broad Family Trust",
+        "start": 0,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl36_r13_c0_p0",
+    "text": "Kanchenjunga Family Trust &",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Kanchenjunga Family Trust",
+        "start": 0,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "element_id": "body_p902",
+    "text": "IndusInd Bank Limited 2401 Gen Thimmayya Road, Cantonment",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "IndusInd Bank Limited",
+        "start": 0,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl35_r6_c0_p0",
+    "text": "Dhaulagiri Family Trust",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Dhaulagiri Family Trust",
+        "start": 0,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl6_r4_c1_p0",
+    "text": "Rohit Kushal Hegde, his spouse, his children, lineal descendants and Makalu Family Trust",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Rohit Kushal Hegde",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Makalu Family Trust",
+        "start": 69,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl35_r7_c0_p0",
+    "text": "Everest Family Trust",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Everest Family Trust",
+        "start": 0,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "element_id": "body_p267",
+    "text": "*\tAs certified by Kirtane & Pandit LLP, Chartered Accountants, our Statutory Auditors, by way of their certificate dated December 10, 2025.",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Kirtane & Pandit LLP",
+        "start": 18,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl12_r7_c1_p0",
+    "text": "MUFG Intime India Private Limited (Formerly Link Intime India Private Limited)",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "MUFG Intime India Private Limited",
+        "start": 0,
+        "end": 33
+      },
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Link Intime India Private Limited",
+        "start": 44,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "element_id": "body_p928",
+    "text": "The Federal Bank Limited Ground Floor, Kubera Chambers Opp. Sancheti Hospital Shivajinagar, Pune – 41l 005 Maharashtra, India",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "The Federal Bank Limited",
+        "start": 0,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl25_r7_c0_p0",
+    "text": "Dhaulagiri Family Trust",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Dhaulagiri Family Trust",
+        "start": 0,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "element_id": "body_p907",
+    "text": "ICICI Bank Limited",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "ICICI Bank Limited",
+        "start": 0,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl2_r14_c6_p1",
+    "text": "(Formerly Link Intime India Private Limited)",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "Link Intime India Private Limited",
+        "start": 10,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "element_id": "body_p805",
+    "text": "URL of SEBI website: www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=10",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl14_r5_c1_p0",
+    "text": "AIFs registered as “Category I alternative investment funds” under the SEBI AIF Regulations",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_p941",
+    "text": "No credit rating agency registered with SEBI has been appointed for obtaining grading for the Offer.",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl16_r23_c0_p0",
+    "text": "SEBI SBEB & SE Regulations",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl16_r21_c0_p0",
+    "text": "SEBI Mutual Funds Regulations",
+    "sample_reason": "ORGANIZATION",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_p914",
+    "text": "Pune – 411 001",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl6_r13_c1_p0",
+    "text": "Our manufacturing facility located at Plot No. 5, Chakan Industrial Area, Phase II, Village Khalumbre, Taluka Khed, Pune – 410 501, Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Chakan Industrial Area",
+        "start": 50,
+        "end": 72
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Phase II",
+        "start": 74,
+        "end": 82
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Village Khalumbre",
+        "start": 84,
+        "end": 101
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Taluka Khed",
+        "start": 103,
+        "end": 114
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 116,
+        "end": 120
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 132,
+        "end": 143
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 145,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "element_id": "body_p886",
+    "text": "Koregaon Park, Pune – 411 001 Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Koregaon Park",
+        "start": 0,
+        "end": 13
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 30,
+        "end": 41
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 43,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl70_r3_c3_p0",
+    "text": "Pushpakamal Apartment, Flat – 1, S. no. 245/ 104, Prabhat Road Lane no. 3, Shivaji Nagar, Deccan Gymkhana, Pune – 411 004, Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Pushpakamal Apartment",
+        "start": 0,
+        "end": 21
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Prabhat Road Lane no. 3",
+        "start": 50,
+        "end": 73
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Shivaji Nagar",
+        "start": 75,
+        "end": 88
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Deccan Gymkhana",
+        "start": 90,
+        "end": 105
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 107,
+        "end": 111
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 123,
+        "end": 134
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 136,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "element_id": "body_p921",
+    "text": "Pune – 411 003",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "element_id": "body_p785",
+    "text": "ICICI Securities Limited ICICI Venture House Appasaheb Marathe Marg Prabhadevi, Mumbai – 400 025 Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "ORGANIZATION",
+        "text": "ICICI Securities Limited",
+        "start": 0,
+        "end": 24
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Mumbai",
+        "start": 80,
+        "end": 86
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 97,
+        "end": 108
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 110,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl70_r5_c3_p0",
+    "text": "Pratik Bunglow, Senapati Bapat Road, behind Sahara Hotel, Shivajinagar, Model Colony, Pune – 411 016, Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Pratik Bunglow",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Senapati Bapat Road",
+        "start": 16,
+        "end": 35
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "behind Sahara Hotel",
+        "start": 37,
+        "end": 56
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Shivajinagar",
+        "start": 58,
+        "end": 70
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Model Colony",
+        "start": 72,
+        "end": 84
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 86,
+        "end": 90
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 102,
+        "end": 113
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 115,
+        "end": 120
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl70_r2_c3_p0",
+    "text": "12 Buena Monte, NCL co-operative housing society, Panchvati, Pashan, Pune – 411 008, Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "12 Buena Monte",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "NCL co-operative housing society",
+        "start": 16,
+        "end": 48
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Panchvati",
+        "start": 50,
+        "end": 59
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pashan",
+        "start": 61,
+        "end": 67
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 69,
+        "end": 73
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 85,
+        "end": 96
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 98,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl70_r8_c3_p0",
+    "text": "A29, Abhimanshree Society, Pashan Road, Pune – 411 008, Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Abhimanshree Society",
+        "start": 5,
+        "end": 25
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pashan Road",
+        "start": 27,
+        "end": 38
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 40,
+        "end": 44
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 56,
+        "end": 67
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 69,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "element_id": "body_p809",
+    "text": "Next to Kanjurmarg Railway Station, Kanjurmarg (East) Mumbai – 400042, Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Next to Kanjurmarg Railway Station",
+        "start": 0,
+        "end": 34
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Kanjurmarg (East) Mumbai",
+        "start": 36,
+        "end": 60
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 71,
+        "end": 82
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 84,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "element_id": "body_p956",
+    "text": "Bandra Kurla Complex, Bandra (E) Mumbai – 400 051, Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Bandra Kurla Complex",
+        "start": 0,
+        "end": 20
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Bandra (E) Mumbai",
+        "start": 22,
+        "end": 39
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 51,
+        "end": 62
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 64,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "element_id": "body_p897",
+    "text": "Signature Building, Bhandarkar road Shivaji Nagar, Pune – 411 004 Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Signature Building",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Bhandarkar road Shivaji Nagar",
+        "start": 20,
+        "end": 49
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 51,
+        "end": 55
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 66,
+        "end": 77
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 79,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl0_r1_c1_p0",
+    "text": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner Pune – 411 045",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Tower 2",
+        "start": 5,
+        "end": 12
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Montreal Business Centre",
+        "start": 14,
+        "end": 38
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Off Pallod Farms",
+        "start": 40,
+        "end": 56
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Baner Pune",
+        "start": 58,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl5_r29_c1_p0",
+    "text": "The registered office of our Company located at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka-Khed, Pune – 410 501, Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Village Birdewadi",
+        "start": 69,
+        "end": 86
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Chakan Taluka-Khed",
+        "start": 88,
+        "end": 106
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 108,
+        "end": 112
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 124,
+        "end": 135
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 137,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "element_id": "body_p903",
+    "text": "Pune – 411 001",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "element_id": "body_p732",
+    "text": "PCNTDA Green Building Block A 1st and 2nd floor Near Akurdi Railway Station Akurdi, Pune – 411 044 Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "PCNTDA Green Building Block A 1st and 2nd floor Near Akurdi Railway Station Akurdi",
+        "start": 0,
+        "end": 82
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 84,
+        "end": 88
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 99,
+        "end": 110
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 112,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl6_r11_c1_p0",
+    "text": "Our manufacturing facility located at Plot No. J-25, Taloja Industrial Area, Village Padghe, Taluka Panvel, Raigad – 410 208, Maharashtra, India",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Taloja Industrial Area",
+        "start": 53,
+        "end": 75
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Village Padghe",
+        "start": 77,
+        "end": 91
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Taluka Panvel",
+        "start": 93,
+        "end": 106
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Raigad",
+        "start": 108,
+        "end": 114
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 126,
+        "end": 137
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India",
+        "start": 139,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "element_id": "body_p26",
+    "text": "Registered Office: 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India;",
+    "sample_reason": "LOCATION",
+    "gold_entities": [
+      {
+        "entity_type": "LOCATION",
+        "text": "Village Birdewadi",
+        "start": 40,
+        "end": 57
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Chakan Taluka - Khed",
+        "start": 59,
+        "end": 79
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Pune",
+        "start": 81,
+        "end": 85
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "Maharashtra",
+        "start": 97,
+        "end": 108
+      },
+      {
+        "entity_type": "LOCATION",
+        "text": "India;",
+        "start": 110,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl36_r6_c1_p0",
+    "text": "December 17, 2024",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl66_r2_c0_p0",
+    "text": "As on financial year ended March 31, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl69_r1_c4_p0",
+    "text": "December 6, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_p443",
+    "text": "Form 32 along with the corresponding RoC challan for regularisation as director in relation to Rohit Kushal Hegde dated September 21, 2000;",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Rohit Kushal Hegde",
+        "start": 95,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "element_id": "body_tbl64_r0_c1_p0",
+    "text": "Three-month period ended June 30, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl59_r0_c1_p0",
+    "text": "As at and for the three-month period ended June 30, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl37_r1_c3_p0",
+    "text": "May 7, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl54_r0_c2_p0",
+    "text": "Three-month period ended June 30, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl48_r0_c1_p0",
+    "text": "Three-month period ended June 30, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl41_r0_c2_p0",
+    "text": "Three-month period ended June 30, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl65_r0_c0_p0",
+    "text": "Three-month period ended June 30, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl66_r3_c0_p0",
+    "text": "As on financial year ended March 31, 2024",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_p473",
+    "text": "Set out below are our working capital days for the three-month period ended June 30, 2025, and the Fiscals 2025, 2024 and 2023:",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl45_r0_c2_p0",
+    "text": "Three-month period ended June 30, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl29_r5_c1_p0",
+    "text": "We derive a substantial portion of our revenue (more than 70% in each of the three-month period ended June 30, 2025, and",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl36_r12_c1_p0",
+    "text": "May 8, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_p208",
+    "text": "*Not annualised for period ended June 30, 2025. Notes:",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl36_r10_c1_p0",
+    "text": "May 7, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_tbl61_r0_c1_p0",
+    "text": "Three-month period ended June 30, 2025",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": []
+  },
+  {
+    "element_id": "body_p442",
+    "text": "Form 32 along with corresponding RoC challan for appointment as additional director in relation to Rohit Kushal Hegde dated November 1, 2000;",
+    "sample_reason": "DATE_OF_BIRTH",
+    "gold_entities": [
+      {
+        "entity_type": "PERSON",
+        "text": "Rohit Kushal Hegde",
+        "start": 99,
+        "end": 117
+      }
+    ]
+  }
+]
